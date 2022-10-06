@@ -33,6 +33,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogadavid&" alt="ogadavid" /></p>
 <br/>
 
+<h1>Contribution</h1>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OgaDavid)](https://git.io/streak-stats)
+<br/>
+
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
