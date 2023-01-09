@@ -8,7 +8,7 @@
 # 🚀 About me
 - 🔭 I’m currently working on an E-commerce Web App - **Fastfoods**.
 
-- 🌱 I’m currently learning **React, MERN stack**.
+- 🌱 I’m currently learning **Next JS, Typescript**.
 
 - 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
 
