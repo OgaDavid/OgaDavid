@@ -6,7 +6,7 @@
 <h3 align="center">A Topnotch Frontend developer and Software Engineer.</h3>
 
 # 🚀 About me
-- 🔭 I’m currently working on an E-commerce Web App - **Fastfoods**.
+- 🔭 I’m currently working on an E-commerce Web App - **crwn shopping**.
 
 - 🌱 I’m currently learning **Next JS, Typescript**.
 
