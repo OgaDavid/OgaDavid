@@ -8,7 +8,7 @@
 # 🚀 About me
 - 🔭 I’m currently working on an E-commerce Web App - **crwn shopping**.
 
-- 🌱 I’m currently learning **Next JS, Typescript**.
+- 🌱 I’m currently learning **Node JS, Mongo DB**.
 
 - 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
 
