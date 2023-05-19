@@ -6,8 +6,6 @@
 <h3 align="center">A Topnotch Frontend developer and Software Engineer.</h3>
 
 # 🚀 About me
-- 🔭 I’m currently working on an E-commerce Web App - **crwn shopping**.
-
 - 🌱 I’m currently learning **Node JS, Mongo DB**.
 
 - 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
