@@ -11,7 +11,7 @@
 # 🚀 About me
 - 🌱 I’m currently learning **Node JS, Mongo DB**.
 - 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
-- 🎯 I am open to take jobs and get hired as a frontend developer! 
+- 🎯 I am open to taking jobs and getting hired as a Fullstack developer! 
 
 - ⚡ Fun fact about me - **I Love listening to Lofi!🎧**
 <br/>
