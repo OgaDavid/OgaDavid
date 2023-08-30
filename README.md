@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Konnichiwa 👋, I'm David</h1>
-<h3 align="center">A Fullstack JavaScript developer and Software Engineer.</h3>
+<h3 align="center">A Frontend Engineer and Software Developer</h3>
 <br />
 
 # 🚀 About me
