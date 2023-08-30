@@ -10,15 +10,15 @@
 
 # 🚀 About me
 - 🌱 I’m currently learning **Node JS, Mongo DB**.
-- 📝 I regularly write articles on [https://hashnode.com/@demicoder](https://hashnode.com/@demicoder)
-- 🎯 I am open to taking jobs and getting hired as a Fullstack developer! 
+- 📝 I regularly write articles on [hashnode](https://davidoga.hashnode.dev/)
+- 🎯 I am open to taking jobs and getting hired as a Frontend Engineer! 
 - ⚡ Fun fact about me - **I Love listening to Lofi!🎧**
 <br/>
 <br />
 <h1 align="left">⚡ Languages and Tools:</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,nextjs,nodejs,firebase,express,prisma,mongodb,planetscale,jest,postman,git,github,vercel,vscode,powershell,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,nextjs,firebase,planetscale,jest,postman,git,github,vercel,vscode,powershell,figma,vite" />
   </a>
 </p>
 <br/>
