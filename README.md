@@ -45,6 +45,10 @@
 
 <br/>
 
+# 🥇 My Badge Board
+
+[![An image of @demiicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/demiicoder)](https://holopin.io/@demiicoder)
+
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
