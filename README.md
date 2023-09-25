@@ -9,7 +9,7 @@
 <br />
 
 # 🚀 About me
-- 🌱 I’m currently learning **Node JS, Mongo DB**.
+- 🌱 I’m currently learning **Node JS**.
 - 📝 I regularly write articles on [hashnode](https://davidoga.hashnode.dev/)
 - 🎯 I am open to taking jobs and getting hired as a Frontend Engineer! 
 - ⚡ Fun fact about me - **I Love listening to Lofi!🎧**
