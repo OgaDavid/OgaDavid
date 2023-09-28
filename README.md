@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Konnichiwa 👋, I'm David</h1>
-<h3 align="center">A Frontend Engineer and Software Developer</h3>
+<h3 align="center">I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript.</h3>
 <br />
 
 | davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
