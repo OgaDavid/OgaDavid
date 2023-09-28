@@ -1,11 +1,6 @@
-<div align="center">
- <img src="gitartwork.svg" />
-</div>
 
-<br/>
-
-<h1 align="center">Konnichiwa 👋, I'm David</h1>
-<h3 align="center">I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript.</h3>
+<h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Nǐ hǎo, Hola 👋</h1>
+<p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂</p>
 <br />
 
 | davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
