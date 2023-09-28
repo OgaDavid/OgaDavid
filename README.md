@@ -8,11 +8,10 @@
 <h3 align="center">A Frontend Engineer and Software Developer</h3>
 <br />
 
-# 🚀 About me
-- 🌱 I’m currently learning **Node JS**.
-- 📝 I regularly write articles on [hashnode](https://davidoga.hashnode.dev/)
-- 🎯 I am open to taking jobs and getting hired as a Frontend Engineer! 
-- ⚡ Fun fact about me - **I Love listening to Lofi!🎧**
+| davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|:-:|:-:|
+|<a href="https://davidoga.vercel.app/"><img src="https://github.com/OgaDavid/OgaDavid/assets/104001201/39d53f34-458f-483d-9f95-d120f2fb4350" alt="Portfolio website" width="400"></a><br />Find my projects and writings here.<br /><br /><a href="https://davidoga.vercel.app/">**Visit**</a> | <a href="https://davidoga.hashnode.dev/"><img src="https://github.com/OgaDavid/OgaDavid/assets/104001201/9d6cfd8c-3a20-4b02-a71a-581ff64ea1a4" alt="Blog" width="400"></a><br />Check out articles written by me.<br /><br /><a href="https://davidoga.hashnode.dev/">**Visit**</a> |
+
 <br/>
 <br />
 <h1 align="left">⚡ Languages and Tools:</h1>
