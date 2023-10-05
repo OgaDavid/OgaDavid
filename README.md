@@ -1,6 +1,6 @@
 
 <h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Nǐ hǎo, Hola 👋</h1>
-<p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂</p>
+<p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂 I'm also learning Japanese 🎌</p>
 <br />
 
 | davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
