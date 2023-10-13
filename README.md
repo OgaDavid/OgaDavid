@@ -1,4 +1,6 @@
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/davidoga?style=social)](https://peerlist.io/davidoga)
+
 <h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Nǐ hǎo, Hola 👋</h1>
 <p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂 I'm also learning Japanese 🎌</p>
 <br />
@@ -36,6 +38,10 @@
   </td>
 </tr>
 </table>
+
+# 🥇 My Badge Board
+
+[![An image of @demiicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/demiicoder)](https://holopin.io/@demiicoder)
 
 <br/>
 
