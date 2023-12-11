@@ -49,7 +49,7 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -67,15 +67,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ██████████████░░░░░░░░░░░   54.58 % 
-JavaScript               2 mins              ███████████░░░░░░░░░░░░░░   45.42 % 
+TypeScript               9 mins              ████████████████████░░░░░   78.13 % 
+JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/12/2023 18:40:18 UTC
+ Last Updated on 11/12/2023 18:42:21 UTC
 <!--END_SECTION:waka-->
 <br />
 
