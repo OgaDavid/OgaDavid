@@ -82,5 +82,5 @@ VS Code                  23 hrs 46 mins      ███████████�
 <!--END_SECTION:waka-->
 <br />
 
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&pause=1000&color=FFD500&center=true&random=false&width=600&lines=Thanks+for+viewing+my+profile+%F0%9F%94%A5;Don't+forget+to+leave+a+star+on+any+of+my+projects+%F0%9F%8C%9F;Arigato+Gozaimasu%F0%9F%99%8C%F0%9F%8F%BE" alt="Typing SVG" /></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&pause=1000&color=FFD500&center=true&random=false&width=900&lines=Thanks+for+viewing+my+profile+%F0%9F%94%A5;Don't+forget+to+leave+a+star+on+any+of+my+projects+%F0%9F%8C%9F;Arigato+Gozaimasu%F0%9F%99%8C%F0%9F%8F%BE" alt="Typing SVG" /></h3>
 
