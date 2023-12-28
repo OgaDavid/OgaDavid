@@ -2,8 +2,9 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/davidoga?style=social)](https://peerlist.io/davidoga)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogadavid&label=Profile%20views&color=0e75b6&style=flat" alt="ogadavid" /> </p>
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25=&width=500&pause=500&color=FFD500&random=false&width=200&lines=Hello+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Namaste+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B;Ciao+%F0%9F%91%8B;N%C7%90+h%C7%8Eo+%F0%9F%91%8B;Hola+%F0%9F%91%8B" alt="Typing SVG" /></h1>
-<p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂 I'm also learning Japanese 🎌</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25=&width=500&pause=200&color=FFD500&random=false&width=200&lines=Hello+world+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Namaste+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B;Ciao+%F0%9F%91%8B;N%C7%90+h%C7%8Eo+%F0%9F%91%8B;Hola+%F0%9F%91%8B" alt="Typing SVG" />
+<b>My name is David and I'm a Frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂 I'm also learning Japanese 🎌</b>
+<hr />
 <br />
 
 | davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,7 +13,7 @@
 
 <br/>
 <br />
-<h1 align="left">⚡ Languages and Tools:</h1>
+<h1 align="left">⚒ Languages and Tools:</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,firebase,prisma,planetscale,jest,postman,git,github,vercel,vscode,powershell,figma,vite" />
