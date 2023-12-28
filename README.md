@@ -2,7 +2,7 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/davidoga?style=social)](https://peerlist.io/davidoga)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogadavid&label=Profile%20views&color=0e75b6&style=flat" alt="ogadavid" /> </p>
 
-<h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Nǐ hǎo, Hola 👋</h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25=&width=500&pause=500&color=FFD500&random=false&width=200&lines=Hello+%F0%9F%91%8B;Konnichiwa+%F0%9F%91%8B;Namaste+%F0%9F%91%8B;Bonjour+%F0%9F%91%8B;Ciao+%F0%9F%91%8B;N%C7%90+h%C7%8Eo+%F0%9F%91%8B;Hola+%F0%9F%91%8B" alt="Typing SVG" /></h1>
 <p>My name is David and I'm a frontend engineer. I work with the React Ecosystem and I also create content around Javascript, React, Next JS and Typescript. When i'm not coding, I'm either binge watching anime or scrolling through tiktok 😂 I'm also learning Japanese 🎌</p>
 <br />
 
