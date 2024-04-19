@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogadavid&label=Profile%20views&color=0e75b6&style=flat" alt="ogadavid" /> </p>
 
 <h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Hola👋</h1>
-<b>As a Frontend Engineer, I specialize in the React ecosystem (React, Redux, Next.js) with a proficiency in TypeScript. My primary focus is delivering exceptional user experiences through intuitive interfaces and optimizing performance for seamless interactions. I also create content around the JavaScript and React Ecosystem.</b>
+<b>David Here👋 As a Frontend Engineer, I specialize in the React ecosystem (React, Redux, Next.js) with a proficiency in TypeScript. My primary focus is delivering exceptional user experiences through intuitive interfaces and optimizing performance for seamless interactions. I also create content around the JavaScript and React Ecosystem.</b>
 <hr />
 <br />
 
