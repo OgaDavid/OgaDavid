@@ -39,7 +39,7 @@
 </tr>
 </table>
 
-# 🥇 My Badge Board for valuable contributions made
+# 🥇 My Contribution Badge Board
 
 [![An image of @demiicoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/demiicoder)](https://holopin.io/@demiicoder)
 
