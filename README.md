@@ -48,8 +48,6 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2058%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -77,6 +75,6 @@ VS Code                  12 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 09/11/2024 18:48:48 UTC
+ Last Updated on 10/11/2024 18:50:37 UTC
 <!--END_SECTION:waka-->
 <br />
