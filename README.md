@@ -5,7 +5,7 @@
 <hr />
 <br />
 
-| davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| davidoga.netlify.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
 |<a href="https://davidoga.vercel.app/"><img src="https://github.com/OgaDavid/OgaDavid/assets/104001201/e1ddc1c7-fb1b-4f25-8408-5fcef9c15db0" alt="Portfolio website" width="400"></a><br /><b>Find my projects and writings here.</b><br /><br /><a href="https://davidoga.vercel.app/">**Visit**</a> | <a href="https://davidoga.hashnode.dev/"><img src="https://github.com/OgaDavid/OgaDavid/assets/104001201/2c9dd6bb-76d4-4acd-bcf9-5f4d71117d93" alt="Blog" width="400"></a><br /><b>Check out articles written by me.</b><br /><br /><a href="https://davidoga.hashnode.dev/">**Visit**</a> |
 
