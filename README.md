@@ -66,13 +66,13 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2024 18:51:48 UTC
+ Last Updated on 01/01/2025 18:51:37 UTC
 <!--END_SECTION:waka-->
 <br />
