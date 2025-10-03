@@ -49,34 +49,11 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.1%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                17643 commits       █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌆 Daytime                20941 commits       ███████████░░░░░░░░░░░░░░   44.46 % 
-🌃 Evening                7253 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-🌙 Night                  1269 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.2%20million%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               55 mins             ████████████████████░░░░░   79.97 % 
-Java Properties          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-
-🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/10/2025 19:03:53 UTC
+ Last Updated on 03/10/2025 19:04:56 UTC
 <!--END_SECTION:waka-->
 <br />
