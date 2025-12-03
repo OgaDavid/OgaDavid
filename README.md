@@ -15,7 +15,7 @@
 <h1 align="left">⚒ Languages and Tools:</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,postgres,mongodb,firebase,prisma,planetscale,jest,postman,git,github,gitlab,vercel,netlify,vscode,powershell,figma,vite,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,go,postgres,mongodb,firebase,prisma,planetscale,jest,postman,git,github,gitlab,vercel,netlify,vscode,powershell,figma,vite,wordpress" />
   </a>
 </p>
 <br/>
