@@ -49,17 +49,17 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C519%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.78%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-106.79%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                21480 commits       █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌆 Daytime                26267 commits       ███████████░░░░░░░░░░░░░░   45.06 % 
-🌃 Evening                9140 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌙 Night                  1402 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+🌞 Morning                21497 commits       █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌆 Daytime                26302 commits       ███████████░░░░░░░░░░░░░░   45.08 % 
+🌃 Evening                9147 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+🌙 Night                  1402 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 
 
@@ -74,6 +74,6 @@ VS Code                  11 mins             ███████████�
 ```
 
 
- Last Updated on 04/01/2026 19:07:30 UTC
+ Last Updated on 05/01/2026 19:14:01 UTC
 <!--END_SECTION:waka-->
 <br />
