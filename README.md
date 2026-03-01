@@ -67,17 +67,17 @@
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
-HTML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-TypeScript               2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+TypeScript               2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+HTML                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Markdown                 1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Go                       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/02/2026 19:12:32 UTC
+ Last Updated on 01/03/2026 19:14:59 UTC
 <!--END_SECTION:waka-->
 <br />
