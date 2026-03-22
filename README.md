@@ -49,17 +49,17 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C625%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C629%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23691 commits       █████████░░░░░░░░░░░░░░░░   35.96 % 
-🌆 Daytime                30137 commits       ███████████░░░░░░░░░░░░░░   45.75 % 
-🌃 Evening                10465 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌙 Night                  1585 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+🌞 Morning                23695 commits       █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌆 Daytime                30137 commits       ███████████░░░░░░░░░░░░░░   45.74 % 
+🌃 Evening                10465 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌙 Night                  1586 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
@@ -67,17 +67,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 39 mins      █████████████████░░░░░░░░   66.67 % 
-Go                       2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Image (svg)              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TypeScript               16 hrs 4 mins       ██████████████████░░░░░░░   73.71 % 
+Go                       2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Image (svg)              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSS                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/03/2026 19:20:43 UTC
+ Last Updated on 22/03/2026 19:20:11 UTC
 <!--END_SECTION:waka-->
 <br />
