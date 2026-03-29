@@ -51,15 +51,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.73%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23794 commits       █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌆 Daytime                30353 commits       ███████████░░░░░░░░░░░░░░   45.80 % 
-🌃 Evening                10539 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-🌙 Night                  1590 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+🌞 Morning                23874 commits       █████████░░░░░░░░░░░░░░░░   35.91 % 
+🌆 Daytime                30462 commits       ███████████░░░░░░░░░░░░░░   45.82 % 
+🌃 Evening                10552 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌙 Night                  1593 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 
 
@@ -67,17 +67,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 59 mins       ███████████████░░░░░░░░░░   58.38 % 
-Go                       3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               6 hrs 41 mins       ██████████████░░░░░░░░░░░   55.79 % 
+Go                       3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 19:23:51 UTC
+ Last Updated on 29/03/2026 19:27:22 UTC
 <!--END_SECTION:waka-->
 <br />
