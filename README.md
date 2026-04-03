@@ -49,17 +49,17 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C640%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C640%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-118.53%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24109 commits       █████████░░░░░░░░░░░░░░░░   35.94 % 
-🌆 Daytime                30733 commits       ███████████░░░░░░░░░░░░░░   45.81 % 
-🌃 Evening                10641 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-🌙 Night                  1599 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+🌞 Morning                24153 commits       █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌆 Daytime                30782 commits       ███████████░░░░░░░░░░░░░░   45.82 % 
+🌃 Evening                10641 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+🌙 Night                  1600 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -67,17 +67,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 1 min         █████████████████░░░░░░░░   68.80 % 
-Go                       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               4 hrs 6 mins        ██████████████████░░░░░░░   70.76 % 
+Go                       52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 20:17:41 UTC
+ Last Updated on 03/04/2026 19:52:33 UTC
 <!--END_SECTION:waka-->
 <br />
