@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@b63ee84c-66eb-49b2-b18f-b4945d513937"><img src="https://wakatime.com/badge/user/b63ee84c-66eb-49b2-b18f-b4945d513937.svg" alt="Total time coded since Jul 1 2023" /></a>
 
 <h1>Hello, Konnichiwa, Namaste, Bonjour, Ciao, Hola👋</h1>
-<b>David Here👋 As a Frontend Engineer, I specialize in the React ecosystem (React, Redux, Next.js) with a proficiency in TypeScript. My primary focus is delivering exceptional user experiences through intuitive interfaces and optimizing performance for seamless interactions. I also create content around the JavaScript and React Ecosystem.</b>
+<b>David Here👋 Software Engineer & Mechanical Engineer.</b>
 <hr />
 <br />
 
