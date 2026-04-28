@@ -51,15 +51,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C647%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-121.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25047 commits       █████████░░░░░░░░░░░░░░░░   35.88 % 
-🌆 Daytime                32063 commits       ███████████░░░░░░░░░░░░░░   45.94 % 
-🌃 Evening                11064 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-🌙 Night                  1624 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+🌞 Morning                25279 commits       █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌆 Daytime                32342 commits       ███████████░░░░░░░░░░░░░░   45.96 % 
+🌃 Evening                11110 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+🌙 Night                  1632 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 
@@ -67,17 +67,14 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     20 mins             ████████████░░░░░░░░░░░░░   49.79 % 
-TypeScript               15 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
-Go                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               7 mins              ████████████████████████░   96.12 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 20:44:23 UTC
+ Last Updated on 28/04/2026 20:49:46 UTC
 <!--END_SECTION:waka-->
 <br />
