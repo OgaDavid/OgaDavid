@@ -49,7 +49,7 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C648%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C649%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,18 +67,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               38 mins             █████████████████░░░░░░░░   67.57 % 
-Image (svg)              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               1 hr 14 mins        ██████████████░░░░░░░░░░░   57.99 % 
+CSS                      36 mins             ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Image (svg)              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   99.41 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   99.74 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 01/05/2026 20:25:29 UTC
+ Last Updated on 02/05/2026 20:14:34 UTC
 <!--END_SECTION:waka-->
 <br />
