@@ -49,9 +49,31 @@
 # 🏆 Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2033%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-123.90%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/05/2026 21:43:02 UTC
+```text
+🌞 Morning                25704 commits       █████████░░░░░░░░░░░░░░░░   35.91 % 
+🌆 Daytime                32880 commits       ███████████░░░░░░░░░░░░░░   45.93 % 
+🌃 Evening                11322 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌙 Night                  1676 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 21:45:54 UTC
 <!--END_SECTION:waka-->
 <br />
